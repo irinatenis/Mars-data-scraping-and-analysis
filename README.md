@@ -1,4 +1,4 @@
-# data_scraping_challenge
+# Mars data scraping and analysis
 
 ## **Deliverables**:
 - Deliverable 1: Scrape titles and preview text from Mars news articles on the Mars news site.
