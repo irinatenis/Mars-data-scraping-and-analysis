@@ -19,6 +19,8 @@ Python (pandas, matplotlib), HTML
 - The data was analyzed to answer the following questions, and a data visualization was created to support each answer: 
 
 1. *Which month, on average, has the lowest temperature? The highest?*
-2. *Which month, on average, has the lowest atmospheric pressure? The highest?* 
-3. *How many terrestrial days exist in a Martian year? A visual estimate within 25% was made.*
-4. *The DataFrame was exported into a CSV file.*
+![image](https://github.com/irinatenis/Mars-data-scraping-and-analysis/assets/120978502/622abe50-55c8-4719-805c-8c4770d9b5bd)
+
+3. *Which month, on average, has the lowest atmospheric pressure? The highest?* 
+4. *How many terrestrial days exist in a Martian year? A visual estimate within 25% was made.*
+5. *The DataFrame was exported into a CSV file.*
