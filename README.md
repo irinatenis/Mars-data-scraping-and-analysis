@@ -21,8 +21,10 @@ Python (pandas, matplotlib), HTML
 1. *Which month, on average, has the lowest temperature? The highest?*
 ![image](https://github.com/irinatenis/Mars-data-scraping-and-analysis/assets/120978502/622abe50-55c8-4719-805c-8c4770d9b5bd)
 
-3. *Which month, on average, has the lowest atmospheric pressure? The highest?*
+2. *Which month, on average, has the lowest atmospheric pressure? The highest?*
 ![image](https://github.com/irinatenis/Mars-data-scraping-and-analysis/assets/120978502/048a5201-5334-4c97-8732-d47420b28da1)
 
-5. *How many terrestrial days exist in a Martian year? A visual estimate within 25% was made.*
-6. *The DataFrame was exported into a CSV file.*
+3. *How many terrestrial days exist in a Martian year? A visual estimate within 25% was made.*
+![image](https://github.com/irinatenis/Mars-data-scraping-and-analysis/assets/120978502/22811296-123d-4d0b-b5f8-e30e69d7ead8)
+
+- The DataFrame was exported into a CSV file.
